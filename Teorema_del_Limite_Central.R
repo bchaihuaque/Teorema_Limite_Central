@@ -22,7 +22,7 @@ if (Sys.info()[["sysname"]] == "Windows") {
     setwd("/home/bchaihuaque/Estudiando/R/Clase8/Teorema_Limite_Central") # Laptop con Ubuntu 
   } else {
     if (Sys.info()[["sysname"]] == "MacOS") {
-      setwd("poner_ruta") # Mi Macbook Pro
+      setwd("poner_ruta") # Mi Macbook Pro 
     }
   }
 }
